@@ -1,6 +1,5 @@
 # Operationalizing Machine Learning
 
-_TODO:_ Write an overview to your project.
 Microsoft Azure, a cloud based solution, provides a machine learning solution which enables model training, deployment and consumption. The solution is used to work with the [Bank Marketing Dataset](https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv) by developing a production ready model, deploy and consume the model. In another stage, a pipeline was created, pulished and consumed. Find below the approach followed to complete the project.
 
 - Step 1 - Authentication
@@ -27,7 +26,7 @@ After creating the SP account, access was allowed to my workspace. See image bel
 
 #### Service Principal
 
-![Service Principal](Screenshot/Service Principal.png)
+![Service Principal](https://github.com/bleso-a/nd00333_AZMLND_C2/blob/master/Screenshot/Service%20Principal.png)
 
 ## Screen Recording
 
