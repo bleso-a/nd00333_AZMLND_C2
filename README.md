@@ -116,15 +116,15 @@ The code cells are executed and that creates the pipeline. See Below the screens
 
 #### Published Pipeline Overview
 
-[Published Pipleine ](https://github.com/bleso-a/nd00333_AZMLND_C2/blob/master/Screenshot/Pipeline%20Endpoint%202.png)
+![Published Pipleine ](https://github.com/bleso-a/nd00333_AZMLND_C2/blob/master/Screenshot/Pipeline%20Endpoint%202.png)
 
 #### Jupyter Notebook - UseRunWidget
 
-[Run Widget](https://github.com/bleso-a/nd00333_AZMLND_C2/blob/master/Screenshot/Run%20Widget%20in%20Notebook.png)
+![Run Widget](https://github.com/bleso-a/nd00333_AZMLND_C2/blob/master/Screenshot/Run%20Widget%20in%20Notebook.png)
 
 #### Schedlued Run
 
-[Scheduled Run](https://github.com/bleso-a/nd00333_AZMLND_C2/blob/master/Screenshot/Run%20in%20ML%20studio%202.png)
+![Scheduled Run](https://github.com/bleso-a/nd00333_AZMLND_C2/blob/master/Screenshot/Run%20in%20ML%20studio%202.png)
 
 ## Screen Recording
 
