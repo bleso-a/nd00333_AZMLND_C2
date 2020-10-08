@@ -13,7 +13,7 @@ Microsoft Azure, a cloud based solution, provides a machine learning solution wh
 
 ## Architectural Diagram
 
-_TODO_: Provide an architectual diagram of the project and give an introduction of each step.
+![Architecture](https://github.com/bleso-a/nd00333_AZMLND_C2/blob/master/Screenshot/ARCHITECTURE.png)
 
 ## Improve the Project
 
