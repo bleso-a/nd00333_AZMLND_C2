@@ -15,6 +15,14 @@ Microsoft Azure, a cloud based solution, provides a machine learning solution wh
 
 _TODO_: Provide an architectual diagram of the project and give an introduction of each step.
 
+## Improve the Project
+
+The following steps are suggested to further improve the project
+
+- The computation resources on which the project runs on can be upgraded from a CPU cluster to a faster compute resources that would ensure that the AUTOML runs experiment runs in less time.
+
+- A data processing pipeline be included before passing the data for training run. The model can be further processed and feature engineered for better model performance.
+
 ## Key Steps
 
 ### Step 1 - Authentication
@@ -128,4 +136,4 @@ The code cells are executed and that creates the pipeline. See Below the screens
 
 ## Screen Recording
 
-_TODO_ Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+To watch the video click [here](https://youtu.be/U39dtcogIAc)
